@@ -6,4 +6,4 @@ public String endUp(String str) {
   String back  = str.substring(cut);  // this takes from cut to the end
   
   return front + back.toUpperCase();
-}
+}s
