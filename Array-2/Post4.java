@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 public int[] post4(int[] nums) {
   int indx = 0;
   for( int i =0; i < nums.length; i++){
@@ -13,3 +14,5 @@ public int[] post4(int[] nums) {
   return array;
 }
   
+=======
+>>>>>>> bd4caba70a92fbdd0d99a2a9775d80c60c53fc45
